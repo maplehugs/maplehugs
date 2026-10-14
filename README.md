@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="assets/haru.png" width="100%" alt="haru" />
-
 # hi, i'm maple :3
 
 full stack dev · artist · i break things and sometimes fix them ♡
+
+<img src="assets/haru.png" width="100%" alt="haru" />
 
 </div>
 
