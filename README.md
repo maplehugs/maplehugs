@@ -1,9 +1,5 @@
 <div align="center">
 
-<!-- drop the transparent haru png here and uncomment:
-<img src="https://github.com/user-attachments/assets/XXXX" width="320" alt="haru" />
--->
-
 # hey, i'm maple
 
 full stack dev · artist · cloud nerd — i break things and sometimes fix them
@@ -30,5 +26,11 @@ full stack dev · artist · cloud nerd — i break things and sometimes fix them
 <div align="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=maplehugs&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&border_radius=12)
+
+</div>
+
+<div align="center">
+
+<img src="assets/haru.png" width="100%" alt="haru peeking" />
 
 </div>
